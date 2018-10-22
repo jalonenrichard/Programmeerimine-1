@@ -1,0 +1,11 @@
+C:\Users\Richard\source\repos\HomeworkRJ\HomeworkRJ\bin\Debug\netcoreapp2.1\HomeworkRJ.deps.json
+C:\Users\Richard\source\repos\HomeworkRJ\HomeworkRJ\bin\Debug\netcoreapp2.1\HomeworkRJ.runtimeconfig.json
+C:\Users\Richard\source\repos\HomeworkRJ\HomeworkRJ\bin\Debug\netcoreapp2.1\HomeworkRJ.runtimeconfig.dev.json
+C:\Users\Richard\source\repos\HomeworkRJ\HomeworkRJ\bin\Debug\netcoreapp2.1\HomeworkRJ.dll
+C:\Users\Richard\source\repos\HomeworkRJ\HomeworkRJ\bin\Debug\netcoreapp2.1\HomeworkRJ.pdb
+C:\Users\Richard\source\repos\HomeworkRJ\HomeworkRJ\obj\Debug\netcoreapp2.1\HomeworkRJ.csprojAssemblyReference.cache
+C:\Users\Richard\source\repos\HomeworkRJ\HomeworkRJ\obj\Debug\netcoreapp2.1\HomeworkRJ.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\HomeworkRJ\HomeworkRJ\obj\Debug\netcoreapp2.1\HomeworkRJ.AssemblyInfoInputs.cache
+C:\Users\Richard\source\repos\HomeworkRJ\HomeworkRJ\obj\Debug\netcoreapp2.1\HomeworkRJ.AssemblyInfo.cs
+C:\Users\Richard\source\repos\HomeworkRJ\HomeworkRJ\obj\Debug\netcoreapp2.1\HomeworkRJ.dll
+C:\Users\Richard\source\repos\HomeworkRJ\HomeworkRJ\obj\Debug\netcoreapp2.1\HomeworkRJ.pdb
