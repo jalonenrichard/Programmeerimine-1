@@ -1,0 +1,11 @@
+C:\Users\Richard\Desktop\Git\Programmeerimine-1\Prax24.10\Prax24.10\bin\Debug\netcoreapp2.1\Prax24.10.deps.json
+C:\Users\Richard\Desktop\Git\Programmeerimine-1\Prax24.10\Prax24.10\bin\Debug\netcoreapp2.1\Prax24.10.runtimeconfig.json
+C:\Users\Richard\Desktop\Git\Programmeerimine-1\Prax24.10\Prax24.10\bin\Debug\netcoreapp2.1\Prax24.10.runtimeconfig.dev.json
+C:\Users\Richard\Desktop\Git\Programmeerimine-1\Prax24.10\Prax24.10\bin\Debug\netcoreapp2.1\Prax24.10.dll
+C:\Users\Richard\Desktop\Git\Programmeerimine-1\Prax24.10\Prax24.10\bin\Debug\netcoreapp2.1\Prax24.10.pdb
+C:\Users\Richard\Desktop\Git\Programmeerimine-1\Prax24.10\Prax24.10\obj\Debug\netcoreapp2.1\Prax24.10.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\Git\Programmeerimine-1\Prax24.10\Prax24.10\obj\Debug\netcoreapp2.1\Prax24.10.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\Git\Programmeerimine-1\Prax24.10\Prax24.10\obj\Debug\netcoreapp2.1\Prax24.10.AssemblyInfoInputs.cache
+C:\Users\Richard\Desktop\Git\Programmeerimine-1\Prax24.10\Prax24.10\obj\Debug\netcoreapp2.1\Prax24.10.AssemblyInfo.cs
+C:\Users\Richard\Desktop\Git\Programmeerimine-1\Prax24.10\Prax24.10\obj\Debug\netcoreapp2.1\Prax24.10.dll
+C:\Users\Richard\Desktop\Git\Programmeerimine-1\Prax24.10\Prax24.10\obj\Debug\netcoreapp2.1\Prax24.10.pdb
