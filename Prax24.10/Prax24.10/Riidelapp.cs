@@ -9,13 +9,10 @@ namespace Prax24._10
         public double Pikkus { get; set; }
         public double Laius { get; set; }
         public string Toon { get; set; }
+
         private static double KeskminePindala { get; set; }
         private static int LappideCount { get; set; }
         private static double LappidePindala { get; set; }
-
-        public Riidelapp()
-        {
-        }
 
         public Riidelapp(double pikkus, double laius, string toon)
         {

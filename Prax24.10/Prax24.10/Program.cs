@@ -25,6 +25,8 @@ namespace Prax24._10
                 Console.WriteLine(riidelapp.ToString());
             }
 
+            Console.WriteLine("\n----------------\n");
+
             Console.WriteLine($"Lappide kogupindala: {ArvutaLappidePindalaSumma(riidelapid)}");
             Console.WriteLine($"Lappide keskmine pindala: {Riidelapp.GetKeskminePindala()}");
             Console.ReadKey();
