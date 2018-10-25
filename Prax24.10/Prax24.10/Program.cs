@@ -29,9 +29,14 @@ namespace Prax24._10
 
             Console.WriteLine($"Lappide kogupindala: {ArvutaLappidePindalaSumma(riidelapid)}");
             Console.WriteLine($"Lappide keskmine pindala: {Riidelapp.GetKeskminePindala()}");
+
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// Koosta riidelappidest massiiv.
+        /// </summary>
+        /// <returns></returns>
         private static List<Riidelapp> TekitaRiidelappideList()
         {
             List<Riidelapp> riidelapid = new List<Riidelapp>();
@@ -47,6 +52,11 @@ namespace Prax24._10
             return riidelapid;
         }
 
+        /// <summary>
+        /// Arvuta mõlema massiivi puhul välja seal leiduvate lappide pindalade summa
+        /// </summary>
+        /// <param name="riidelapid"></param>
+        /// <returns></returns>
         private static double ArvutaLappidePindalaSumma(List<Riidelapp> riidelapid)
         {
             double koguPindala = 0;
