@@ -1,0 +1,11 @@
+C:\VisualStudioProjects\WritingTextToFiles\WritingTextToFiles\bin\Debug\netcoreapp2.1\WritingTextToFiles.deps.json
+C:\VisualStudioProjects\WritingTextToFiles\WritingTextToFiles\bin\Debug\netcoreapp2.1\WritingTextToFiles.runtimeconfig.json
+C:\VisualStudioProjects\WritingTextToFiles\WritingTextToFiles\bin\Debug\netcoreapp2.1\WritingTextToFiles.runtimeconfig.dev.json
+C:\VisualStudioProjects\WritingTextToFiles\WritingTextToFiles\bin\Debug\netcoreapp2.1\WritingTextToFiles.dll
+C:\VisualStudioProjects\WritingTextToFiles\WritingTextToFiles\bin\Debug\netcoreapp2.1\WritingTextToFiles.pdb
+C:\VisualStudioProjects\WritingTextToFiles\WritingTextToFiles\obj\Debug\netcoreapp2.1\WritingTextToFiles.csprojAssemblyReference.cache
+C:\VisualStudioProjects\WritingTextToFiles\WritingTextToFiles\obj\Debug\netcoreapp2.1\WritingTextToFiles.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\WritingTextToFiles\WritingTextToFiles\obj\Debug\netcoreapp2.1\WritingTextToFiles.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\WritingTextToFiles\WritingTextToFiles\obj\Debug\netcoreapp2.1\WritingTextToFiles.AssemblyInfo.cs
+C:\VisualStudioProjects\WritingTextToFiles\WritingTextToFiles\obj\Debug\netcoreapp2.1\WritingTextToFiles.dll
+C:\VisualStudioProjects\WritingTextToFiles\WritingTextToFiles\obj\Debug\netcoreapp2.1\WritingTextToFiles.pdb
