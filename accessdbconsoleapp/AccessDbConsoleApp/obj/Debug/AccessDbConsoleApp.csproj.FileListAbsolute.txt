@@ -1,0 +1,7 @@
+C:\VisualStudioProjects\AccessDbConsoleApp\AccessDbConsoleApp\bin\Debug\AccessDbConsoleApp.exe.config
+C:\VisualStudioProjects\AccessDbConsoleApp\AccessDbConsoleApp\bin\Debug\AccessDbConsoleApp.exe
+C:\VisualStudioProjects\AccessDbConsoleApp\AccessDbConsoleApp\bin\Debug\AccessDbConsoleApp.pdb
+C:\VisualStudioProjects\AccessDbConsoleApp\AccessDbConsoleApp\obj\Debug\AccessDbConsoleApp.csprojAssemblyReference.cache
+C:\VisualStudioProjects\AccessDbConsoleApp\AccessDbConsoleApp\obj\Debug\AccessDbConsoleApp.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\AccessDbConsoleApp\AccessDbConsoleApp\obj\Debug\AccessDbConsoleApp.exe
+C:\VisualStudioProjects\AccessDbConsoleApp\AccessDbConsoleApp\obj\Debug\AccessDbConsoleApp.pdb

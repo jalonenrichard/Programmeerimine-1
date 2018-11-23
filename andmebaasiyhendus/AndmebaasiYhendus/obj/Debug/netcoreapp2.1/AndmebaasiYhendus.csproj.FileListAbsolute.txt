@@ -1,0 +1,11 @@
+C:\VisualStudioProjects\AndmebaasiYhendus\AndmebaasiYhendus\bin\Debug\netcoreapp2.1\AndmebaasiYhendus.deps.json
+C:\VisualStudioProjects\AndmebaasiYhendus\AndmebaasiYhendus\bin\Debug\netcoreapp2.1\AndmebaasiYhendus.runtimeconfig.json
+C:\VisualStudioProjects\AndmebaasiYhendus\AndmebaasiYhendus\bin\Debug\netcoreapp2.1\AndmebaasiYhendus.runtimeconfig.dev.json
+C:\VisualStudioProjects\AndmebaasiYhendus\AndmebaasiYhendus\bin\Debug\netcoreapp2.1\AndmebaasiYhendus.dll
+C:\VisualStudioProjects\AndmebaasiYhendus\AndmebaasiYhendus\obj\Debug\netcoreapp2.1\AndmebaasiYhendus.csprojAssemblyReference.cache
+C:\VisualStudioProjects\AndmebaasiYhendus\AndmebaasiYhendus\obj\Debug\netcoreapp2.1\AndmebaasiYhendus.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\AndmebaasiYhendus\AndmebaasiYhendus\obj\Debug\netcoreapp2.1\AndmebaasiYhendus.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\AndmebaasiYhendus\AndmebaasiYhendus\obj\Debug\netcoreapp2.1\AndmebaasiYhendus.AssemblyInfo.cs
+C:\VisualStudioProjects\AndmebaasiYhendus\AndmebaasiYhendus\bin\Debug\netcoreapp2.1\AndmebaasiYhendus.pdb
+C:\VisualStudioProjects\AndmebaasiYhendus\AndmebaasiYhendus\obj\Debug\netcoreapp2.1\AndmebaasiYhendus.dll
+C:\VisualStudioProjects\AndmebaasiYhendus\AndmebaasiYhendus\obj\Debug\netcoreapp2.1\AndmebaasiYhendus.pdb
